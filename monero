@@ -1,0 +1,2 @@
+#!/bin/bash
+~/cpuminer-multi/screen minerd -a cryptonight -o stratum+tcp://xmr.pool.minergate.com:45560 -u glestewart@gmail.com -p x 
